@@ -46,7 +46,7 @@ characters = {
       characters.getPage("characterTemplate", charID, function(){ // Create the event listener in the callback, so the required id is there to work with.
          $("#click-box").unbind();  // No multiple event listeners (?)
          $("#click-box").click(function(e){  // Click-box is only visible in single character view (therefor non-clickable in multiple characters view).
-            characters.getAllCharacters("venturesTemplate", "ventures"); 
+            characters.getAllCharacters(); 
          });
       })
    }
