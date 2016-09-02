@@ -1,0 +1,19 @@
+{
+   "ventures" : [{
+                  "id" : "RV",
+                  "name" : "Dr.Rusty Venture",
+                  "path" : "images/rusty_venture.png"
+               },{
+                  "id" : "HV",
+                  "name" : "Hank Venture",
+                  "path" : "images/hank_venture.png"
+               },{
+                  "id" : "DV",
+                  "name" : "Dean Venture",
+                  "path" : "images/dean_venture.png"
+               },{
+                  "id" : "BS",
+                  "name" : "Brock Samson",
+                  "path" : "images/brock_samson.png"
+               }]
+            }
